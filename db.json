@@ -1,5 +1,6 @@
 {
-
+"status" : "success",
+"message" : "You are getting latest 5 movies",
 "latest_movie": [
 {
 	"id" : 1,
