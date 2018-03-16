@@ -1,0 +1,105 @@
+{
+
+"latest_movie": [
+{
+	"id" : 1,
+	 "mv_name" : "Tomb Raider (2018)",
+	 "mv_description" : "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared. ",
+	 "mv_type" : [
+	 	{
+	 		"type" : "Action"
+	 	},
+	 	{
+	 		"type" : "Adventure"
+	 	}
+	 ],
+	 "mv_duration": "118 min ",
+	 "mv_thumbnail" : "https://ibb.co/fWB8Xx"
+
+},
+{
+	"id" : 2,
+	 "mv_name" : "Love, Simon (2018)",
+	 "mv_description" : "Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+	 "mv_type" : [
+	 	{
+	 		"type" : "Comedy"
+	 	},
+	 	{
+	 		"type" : "Drama"
+	 	},
+	 	{
+	 		"type" : "Romance"
+	 	}
+	 ],
+	 "mv_duration": "109 min",
+	 "mv_thumbnail" : "https://ibb.co/eUg8Xx"
+
+},
+{
+	"id" : 3,
+	 "mv_name" : "Black Panther (2018)",
+	 "mv_description" : "T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.",
+	 "mv_type" : [
+	 	{
+	 		"type" : "Action"
+	 	},
+	 	{
+	 		"type" : "Adventure"
+	 	},
+	 	{
+	 		"type" : "Sci-Fi"
+	 	}
+	 ],
+	 "mv_duration": "134 min",
+	 "mv_thumbnail" : "https://ibb.co/cC7hsx"
+
+},
+{
+	"id" : 4,
+	 "mv_name" : "Death Wish (2018)",
+	 "mv_description" : "Dr. Paul Kersey is an experienced trauma surgeon, a man who has spent his life saving lives. After an attack on his family, Paul embarks on his own mission for justice.",
+	 "mv_type" : [
+	 	{
+	 		"type" : "Action"
+	 	},
+	 	{
+	 		"type" : "Crime"
+	 	},
+	 	{
+	 		"type" : "Drama"
+	 	},
+	 	{
+	 		"type" : "Thriller"
+	 	}
+	 ],
+	 "mv_duration": "107 min",
+	 "mv_thumbnail" : "https://ibb.co/gqhFCx"
+
+},
+{
+	"id" : 5,
+	 "mv_name" : "Jumanji: Welcome to the Jungle (2017)",
+	 "mv_description" : "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+	 "mv_type" : [
+	 	{
+	 		"type" : "Action"
+	 	},
+	 	{
+	 		"type" : "Adventure"
+	 	},
+	 	{
+	 		"type" : "Comedy"
+	 	},
+	 	{
+	 		"type" : "Fantasy"
+	 	}
+	 ],
+	 "mv_duration": "119 min",
+	 "mv_thumbnail" : "https://ibb.co/mbyBkH"
+
+}
+
+]
+
+}
